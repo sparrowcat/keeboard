@@ -1,3 +1,0 @@
-[submodule "eagle_test/eagle_libs"]
-	path = eagle_test/eagle_libs
-	url = https://github.com/clueboard/eagle_libs.git
